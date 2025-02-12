@@ -5,3 +5,4 @@ aseets/vieos/
 *.mp4
 !apps.js
 *.log
+*.php
