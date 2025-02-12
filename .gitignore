@@ -1,0 +1,7 @@
+# this is a comment
+*.js
+node_modules/
+aseets/vieos/
+*.mp4
+!apps.js
+*.log
