@@ -1,6 +1,10 @@
+
 onefunction - i have have added a verrry verry important function
+
 Twofunction - i have have added another very important function
 Threefunction - i have have added unneccesary function
 
 
-added a code for doing logout
+
+adding new functiont o login user via x method
+
