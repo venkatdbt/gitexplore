@@ -1,3 +1,6 @@
 onefunction - i have have added on important function
 Twofunction - i have have added another very important function
 Threefunction - i have have added unneccesary function
+
+
+added a code for doing logout
